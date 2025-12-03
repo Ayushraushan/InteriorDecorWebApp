@@ -6,11 +6,12 @@ step3:- Now you have enterd in Website.
 step4:- You can visit on different pages here.
 step5:- In contact us page you can send your queries.
 step6:- There is custom design button you can send your custom design according to your choice.
-step7:- You can five feedback by visiting on feedback page. There you can select only no. of starrs and click sent.
+step7:- You can five feedback by visiting on feedback page. There you can select only no. of stars and click sent.
   
 For admin:-
 step1:- for visiting on admin pages will have to login in admin.
 step2. you have to entered email and password.
       email:- ayush@gmail.com  password:- 1985
 step3:- Here you can see registration details of customer, coustom design of customer,add another admin, customer feedback etc.
+
 
